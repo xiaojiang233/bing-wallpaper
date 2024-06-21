@@ -34,5 +34,5 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ENABLE_ERROR_LOGS: False
+        ENABLE_ERROR_LOGS: True
         
