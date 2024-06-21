@@ -7,3 +7,7 @@
 - 在侧边栏中，点击```Actions```中的```General```；
 - 向下滚动到```Workflow permissions```部分，**确保选择```Read and write permissions```**，最后点击```Save```。   
 你可以手动在Actions页面执行workflows，也可以等待它每天+0:00自动更新。
+
+# 更多功能
+你可以在环境变量中添加`ENABLE_ERROR_LOGS`，并设置为True(T为大写)
+这样就可以开启将报错保存到日志的功能
