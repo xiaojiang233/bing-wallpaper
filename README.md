@@ -14,9 +14,3 @@
 这样就可以开启将报错保存到日志的功能
 
 如果不用则可以设置为False(F为大写)
-
-# 关于原作者
-![f3c4936e7e91ab46806517d20dc3740c](https://github.com/xiaojiangxj233/bing-wallpaper/assets/109403149/106c23e4-069c-478c-9d05-6d8251e43f4d)
-![10562de0e78823a0a9c8094cef1a063e](https://github.com/xiaojiangxj233/bing-wallpaper/assets/109403149/0c0cc010-a702-4be2-8319-9197ad0c78bf)
-
-且原代码全由[ChatGPT](https://chatgpt.com)制作，无自己写的部分
